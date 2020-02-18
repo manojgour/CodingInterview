@@ -26,7 +26,6 @@ public class PlusMinus {
 
         scanner.close();
 
-        plusMinus(arr);
     }
 
     private static void plusMinus(int[] arr) {
