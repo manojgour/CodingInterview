@@ -5,10 +5,15 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>HackerRank</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>CodingInterview</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>LeetCode</module>
+        <module>HackerRank</module>
+    </modules>
 
-  <name>HackerRank</name>
+    <name>CodingInterview</name>
   <url>http://www.example.com</url>
 
   <properties>
