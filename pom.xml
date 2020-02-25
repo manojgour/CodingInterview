@@ -11,6 +11,7 @@
     <modules>
         <module>LeetCode</module>
         <module>HackerRank</module>
+        <module>JavaConcepts</module>
     </modules>
 
     <name>CodingInterview</name>
